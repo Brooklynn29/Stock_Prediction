@@ -6,7 +6,7 @@
 
 ### Steps to follow to run this model.
 #### 1. You can execute this project by cloning it with SSH/https key format.
-#### 2. After cloning open the stock_prediction notebook and change the location of the .csv file to wherever you've stored the file in your device
+#### 2. After cloning open the stock_prediction notebook and change the location of the .csv file to wherever you've stored the file in your device.
 
 ### Frameworks & Libraries used.
 * #### Tensorflow.
